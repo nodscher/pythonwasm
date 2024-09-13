@@ -2,7 +2,7 @@
 /* pyconfig.h.in.  Generated from configure.ac by autoheader.  */
 
 
-ifndef Py_PYCONFIG_H
+#ifndef Py_PYCONFIG_H
 #define Py_PYCONFIG_H
 
 
